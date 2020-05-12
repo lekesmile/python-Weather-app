@@ -1,0 +1,5 @@
+Sean Halpin's beautiful personal website
+MDN documentation on background colour
+Curated colour palettes on colorhunt.co
+Colour palette used in lectures
+Table of named colours on MDN
